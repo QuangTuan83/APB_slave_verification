@@ -1,0 +1,15 @@
+out/
+reports/
+build/
+xsim.dir/
+xsim.covdb/
+.Xil/
+
+*.log
+*.jou
+*.pb
+*.wdb
+*.vcd
+*.fsdb
+*.covdb
+simv*
